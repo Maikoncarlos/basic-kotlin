@@ -8,5 +8,4 @@ class BasicKotlinApplication
 
 fun main(args: Array<String>) {
 	runApplication<BasicKotlinApplication>(*args)
-	println(" Olá, Mundo!")
 }
